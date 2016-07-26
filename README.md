@@ -1,1 +1,5 @@
 # web
+
+# License
+
+MIT
